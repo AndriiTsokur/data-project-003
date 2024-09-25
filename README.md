@@ -11,4 +11,4 @@ __The tools used are:__
 - Pandas
 - Jupyter Notebook
 
-The step-by-step milestones and final result are shown [here](https://github.com/AndriiTsokur/data-project-003/blob/main/exploring_ebay_car_sales_data.ipynb)
+The step-by-step milestones and final result are shown [here](https://nbviewer.org/github/AndriiTsokur/data-project-003/blob/main/exploring_ebay_car_sales_data.ipynb)
